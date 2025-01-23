@@ -1,0 +1,9 @@
+{
+	"name": "mine123",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5168cb21-d46f-402c-b5ed-fccb557e7a52",
+		"tenantId": "557e6925-4278-4a16-bd40-215c8a426f57"
+	}
+}
